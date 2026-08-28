@@ -1,4 +1,4 @@
-<img data-importer="image" align="right" height="100" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3c21kM2w2dHpsaTZienljNHo2dmx4Y3g3amJvZG5pY2h0dHFzNWluZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ENY5vJgJPEfG3Ym14H/giphy.gif" />
+<img data-importer="image" align="right" height="200" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3c21kM2w2dHpsaTZienljNHo2dmx4Y3g3amJvZG5pY2h0dHFzNWluZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ENY5vJgJPEfG3Ym14H/giphy.gif" />
 
 <h2 data-importer="text" align="left">Hola 👋! me llamo Oscar</h2>
 
